@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "apexcharts": "^3.40.0",
+    "axios": "^1.4.0",
+    "chart.js": "^4.3.0",
+    "i18next": "^22.4.15",
+    "ml-regression": "^5.0.0",
+    "react-chartjs-2": "^5.2.0",
+    "react-i18next": "^12.2.2",
+    "recharts": "^2.6.2",
+    "regression": "^2.0.1",
+    "victory": "^36.6.10",
+    "ws": "^8.13.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  },
+  "name": "mynew_coins",
+  "description": "currently working on a react nodejs crypto strategy trading platform.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
